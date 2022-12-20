@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and binge watching TV shows
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me : https://www.facebook.com/abhinav.karki.756/
 
 <!---
 AbhinavPWN/AbhinavPWN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
