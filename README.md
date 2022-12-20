@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AbhinavPWN
 - 👀 I’m interested in coding and binge watching TV shows
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and Django
 - 📫 Reach me : https://www.facebook.com/abhinav.karki.756/
 
 <!---
