@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinavPWN
 - 👀 I’m interested in coding and binge watching TV shows
-- 🌱 I’m currently learning python and Django
+- 🌱 I have done internship as a django developer. Currently i am also learning React and Nodejs.
 - 📫 Reach me : https://www.facebook.com/abhinav.karki.756/
 
 <!---
